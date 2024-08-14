@@ -12,5 +12,5 @@ class dog(animal):
 
 dog1 = dog()
 dog.bark("hauhau")
-dog.sleep
+dog.
 
