@@ -1,0 +1,17 @@
+                              ooP:
+object oreinted programmming
+->....>map with the real wolrd objects
+1.class
+2.objects
+2. constructor
+3.methods = function inside the class
+
+procedure-> funtion ->oop -----> to increase the repitation and decrease redundancy
+class ---> is a blueprint to create a objects
+ #creating class
+ class  student:
+            name : "dipesh"
+
+#creating objects
+s1 = student()
+print(s1.name)
